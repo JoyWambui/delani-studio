@@ -19,3 +19,9 @@ h2{
 #whatWeDo{
   column-width: 100%;
 }
+#contactUs{
+  background-image: url(/assets/backgrounds/c_image.jpg);
+}
+form{
+  background-color: transparent;
+}
