@@ -1,4 +1,14 @@
+#welcome{
+  margin-bottom: 30px;
+}
+h1{
+  line-height: 80px;
+}
+.card-footer{
+  margin-top: 130px;
+}
 #about{
+  margin-bottom: 30px;
   border: transparent;
 }
 #design{
