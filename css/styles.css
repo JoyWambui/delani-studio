@@ -67,3 +67,6 @@ textarea{
 ::placeholder{
   color: white;
 }
+#social{
+  margin-bottom: 30px;
+}
