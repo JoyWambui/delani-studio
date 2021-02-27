@@ -10,6 +10,12 @@
 #product{
   border: transparent;
 }
+#productHeading{
+  text-align: right;
+}
 h2{
   text-align: center;
+}
+#whatWeDo{
+  column-width: 100%;
 }
