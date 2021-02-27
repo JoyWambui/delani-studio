@@ -20,8 +20,13 @@ h1{
 #services{
   padding-top: 100px;
 }
+#whatWeDo{
+  column-width: 100%;
+  padding: 30px;
+}
 #design{
   border: transparent;
+  margin-left: 100px;
 }
 #development{
   border: transparent;
@@ -38,9 +43,6 @@ h1{
 h2{
   text-align: center;
   margin: 30px;
-}
-#whatWeDo{
-  column-width: 100%;
 }
 .col-md-3{
   margin-bottom: 30px;
