@@ -20,25 +20,35 @@ h1{
 #product{
   border: transparent;
 }
+#clipboard{
+  padding-right: 50px;
+}
 #productHeading{
   text-align: right;
 }
 h2{
   text-align: center;
+  margin: 10px;
 }
 #whatWeDo{
   column-width: 100%;
 }
-#contactUs{
+.col-md-3{
+  margin-bottom: 20px;
+}
+.contactUs{
   background-image: url(/assets/backgrounds/c_image.jpg);
+  padding: 30px;
 }
 input{
   background-color: transparent;
   border: 0.5px solid white;
+  margin: 10px;
 }
 textarea{
   background-color: transparent;
   border: 0.5px solid white;  border: 0.5px solid white;
+  margin: 10px;
 }
 ::placeholder{
   color: white;
