@@ -22,6 +22,14 @@ h2{
 #contactUs{
   background-image: url(/assets/backgrounds/c_image.jpg);
 }
-form{
+input{
   background-color: transparent;
+  border: 0.5px solid white;
+}
+textarea{
+  background-color: transparent;
+  border: 0.5px solid white;  border: 0.5px solid white;
+}
+::placeholder{
+  color: white;
 }
