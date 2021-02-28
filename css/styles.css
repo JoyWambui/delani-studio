@@ -70,10 +70,14 @@ textarea{
 #social{
   margin-bottom: 30px;
 }
+.heading{
+  font-weight: bold;
+}
 .designDescription{
   display: none;
   text-align: center;
 }
-#designHeading{
-  font-weight: bold;
+.developmentDescription{
+  display: none;
+  text-align: center;
 }

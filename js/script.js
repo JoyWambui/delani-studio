@@ -4,4 +4,8 @@ $(document).ready(function(){
     $(".designBody").toggle();
     $(".designDescription").toggle();
   });
+  $("#developmentColumn").on('click',function(){
+    $(".developmentToggle").toggle();
+    $(".developmentDescription").toggle();
+  });
 });
