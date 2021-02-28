@@ -67,6 +67,9 @@ textarea{
 ::placeholder{
   color: white;
 }
+.clear{
+  text-align: center;
+}
 #social{
   margin-bottom: 30px;
 }
