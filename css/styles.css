@@ -85,6 +85,14 @@ textarea{
   display: none;
   text-align: center;
 }
+#toggle6{
+  border: 5px solid white;
+  margin: 20px;
+  padding-bottom: 140px;
+  font-size: 25pt;
+  font-weight: bold;
+  display: none;
+}
 #toggle7{
   border: 5px solid white;
   margin: 20px;

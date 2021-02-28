@@ -12,6 +12,9 @@ $(document).ready(function(){
     $(".productToggle").toggle();
     $(".productDescription").toggle();
   });
+  $("#hover6").hover(function(){
+    $("#toggle6").toggle();
+  });
   $("#hover7").hover(function(){
     $("#toggle7").toggle();
   });
